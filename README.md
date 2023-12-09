@@ -1,2 +1,2 @@
-# rollbucks
-This is the repository of the rollbucks project that holds the codes, yay!
+# rollbucks backend
+This is the repository for the rollbucks backend
